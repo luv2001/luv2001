@@ -18,4 +18,4 @@ A Consistent learner who belives in hard work.
 
 
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<h3 align="center">Show some &nbsp;❤️&nbsp; I have to change these things ... </h3>
