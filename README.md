@@ -1,5 +1,5 @@
 ## Hi there, I'm Luv  👋
-A Consistent learner who belives in hard work.
+<!-- A Consistent learner who belives in hard work. -->
 
 
 <!-- <img src='https://github-readme-stats.vercel.app/api?username=skjha1&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
@@ -18,4 +18,4 @@ A Consistent learner who belives in hard work.
 
 
 
-<h3 align="center">Show some &nbsp;❤️&nbsp;  </h3>
+<!-- <h3 align="center">Show some &nbsp;❤️&nbsp;  </h3> -->
