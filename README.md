@@ -14,7 +14,7 @@
 ![Pop repo ](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luv2001&repo=ds-algo&theme=great-gatsby)
 
 
-![Visitor Count](https://profile-counter.glitch.me/skjha1/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/luv2001/count.svg)
 
 
 
