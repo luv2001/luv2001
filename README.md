@@ -10,11 +10,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luv2001&%22%20alt=%22skjha1" /></p>
 
-<!-- 
-![Pop repo ](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=skjha1&repo=Data-Structure-Algorithm-Programs&theme=great-gatsby)
+
+![Pop repo ](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=luv2001&repo=Data-Structure-Algorithm-Programs&theme=great-gatsby)
 
 
-![Visitor Count](https://profile-counter.glitch.me/skjha1/count.svg) -->
+![Visitor Count](https://profile-counter.glitch.me/skjha1/count.svg)
 
 
 
